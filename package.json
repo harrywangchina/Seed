@@ -1,0 +1,21 @@
+{
+  "name": "seed",
+  "version": "1.0.0",
+  "description": "A personal construction of Vue framework, big project built from small codes.",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow; test $? -eq 0 -o $? -eq 2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "vue",
+    "framework",
+    "mvvm"
+  ],
+  "author": "wanghao",
+  "license": "ISC",
+  "devDependencies": {
+    "flow-bin": "^0.123.0"
+  }
+}
